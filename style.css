@@ -1,0 +1,35 @@
+
+h1 {
+    text-align: center;
+  
+}
+
+.descripcion {
+    text-align: center;
+    
+    margin-bottom: 20px;
+}
+
+.seccion {
+    background: #999;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+
+.titulo {
+    font-weight: bold;
+    color: red;
+    font-size: 25px;
+}
+
+.contenido {
+    background: #d3d3d3;
+    padding: 15px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+
